@@ -1,0 +1,24 @@
+{
+  "name": "challenge-waltherchoque",
+  "version": "1.0.0",
+  "description": "challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "appium",
+    "ts"
+  ],
+  "author": "wc",
+  "license": "ISC",
+  "dependencies": {
+    "@types/chai": "^4.3.14",
+    "appium": "^2.5.4",
+    "appium-webdriver": "^1.0.3"
+  },
+  "devDependencies": {
+    "@types/cucumber": "^7.0.0",
+    "typescript": "^5.4.5"
+  }
+}
